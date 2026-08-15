@@ -8,3 +8,10 @@ My internship certificates
 - [Prepare Data for Analysis with Power BI - Verify Certificate](https://learn.microsoft.com/api/achievements/share/en-us/Abinaya-8604/9APQZ9BU?sharingId=C443B59EB0458AF6)
 ## Business Analyst Course
  - How to be a Successful Business Analyst (upGrad) - 100% Completed
+## Real Internships
+- **Sugan Scans** - 7 Days Internship
+  - (SUGAN_SCANS_CERTIFICATE.pdf)
+- **Nimo Tools** - 15 Days Internship (Operations Management & Supply Chain)
+  - (NIMO_TOOLS_CERTIFICATE.pdf)
+- **Aurenix Infotech** - 3 Months Internship (AI & Data Science - Power BI with Python)
+  - (AURENIX_INFOTECH_CERTIFICATE.pdf)
