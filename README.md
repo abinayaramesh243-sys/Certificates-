@@ -15,3 +15,6 @@ My internship certificates
   - [Certificate](Nimoo%20tools%20.jpg)
 - **Aurenix Infotech** - 3 Months Internship (AI & Data Science - Power BI with Python)
   - [Certificate](aurenix%20infotech.pdf)
+## Projects
+- **Phytochemicals Study** (UG Project - BSc Biotechnology)
+  - [View Project](PHYTOCHEMICAL_PROJECT_UG.pdf)
