@@ -20,3 +20,10 @@ My internship certificates
   - [View Project](PHYTOCHEMICALS_PROJECT_UG%20.pdf)
 - [AI Job Market Dashboard](Ai_job_market_dashboard.png)
   ( MBA mini project in aurenix infotech)
+  ## Achievements
+  - NPTEL Certification - Elite (Passed with Distinction)
+  - [Certificate](NPTEL_certificate.pdf)
+  - Published Research Paper - Phytochemicals Study
+  - [View Publication](UG_PAPER%20PUBLICATION.jpg)
+  - Published Journal - "Workplace Loneliness and its Impact on employees engagement 
+  - [View Publication](PG_PAPER_PUBLICATION.jpg)
