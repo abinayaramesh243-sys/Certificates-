@@ -17,4 +17,4 @@ My internship certificates
   - [Certificate](aurenix%20infotech.pdf)
 ## Projects
 - **Phytochemicals Study** (UG Project - BSc Biotechnology)
-  - [View Project](PHYTOCHEMICAL_PROJECT_UG.pdf)
+  - [View Project](PHYTOCHEMICALS_PROJECT_UG%20.pdf)
