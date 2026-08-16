@@ -18,4 +18,4 @@ My internship certificates
 ## Projects
 - **Phytochemicals Study** (UG Project - BSc Biotechnology)
   - [View Project](PHYTOCHEMICALS_PROJECT_UG%20.pdf)
-- [View Dashboard](AI_Job_Market_Dashboard.png)
+- [View Dashboard](Ai_job_market_dashboard.png)
