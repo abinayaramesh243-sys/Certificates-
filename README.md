@@ -18,6 +18,4 @@ My internship certificates
 ## Projects
 - **Phytochemicals Study** (UG Project - BSc Biotechnology)
   - [View Project](PHYTOCHEMICALS_PROJECT_UG%20.pdf)
-- **AI Job Market Insights Dashboard** (Power BI Project)
-  - Analyzed job market trends across industries, tracking salary, automation risk, and in-demand skills
- - [View Dashboard]
+- [View Dashboard](AI_Job_Market_Dashboard.png)
